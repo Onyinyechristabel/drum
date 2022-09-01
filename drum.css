@@ -1,0 +1,122 @@
+body{
+    text-align: center;
+    background-color: #283149;
+}
+h1{
+    font-size: 5rem;
+  color: #DBEDF3;
+  font-family:cursive ;
+  text-shadow: 3px 0 #DA0463;
+}
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+button{
+  height: 150px;
+  width: 150px;
+  padding: 50px;
+}
+.w {
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  color:#DA0463;
+  border-radius: 20px;
+  background-image: url("images/tom1.png");
+  border: 10px solid #404B69;
+  line-height: 2;
+  text-shadow: 3px 0 #DBEDF3;
+  display: inline-block;
+  outline: none;
+  
+
+}
+
+.a {
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  color:#DA0463;
+  border-radius: 20px;
+  background-image: url("images/tom2.png");
+  border: 10px solid #404B69;
+  line-height: 2;
+  text-shadow: 3px 0 #DBEDF3;
+  display: inline-block;
+  outline: none;
+  
+}
+
+.s {
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  color:#DA0463;
+  border-radius: 20px;
+  background-image: url("images/tom3.png");
+  border: 10px solid #404B69;
+  line-height: 2;
+  text-shadow: 3px 0 #DBEDF3;
+  display: inline-block;
+  outline: none;
+}
+
+.d {
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  color:#DA0463;
+  border-radius: 20px;
+  background-image: url("images/tom4.png");
+  border: 10px solid #404B69;
+  line-height: 2;
+  text-shadow: 3px 0 #DBEDF3;
+  display: inline-block;
+  outline: none;
+}
+
+.j {
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  color:#DA0463;
+  border-radius: 20px;
+   background-image: url(images/crash.png);
+   border: 10px solid #404B69;
+   line-height: 2;
+   text-shadow: 3px 0 #DBEDF3;
+   display: inline-block;
+   outline: none;
+}
+
+.k {
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  color:#DA0463;
+  border-radius: 20px; background-image: url("images/kick.png");
+  border: 10px solid #404B69;
+  line-height: 2;
+  text-shadow: 3px 0 #DBEDF3;
+  display: inline-block;
+  outline: none;
+
+}
+
+.l {
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  color:#DA0463;
+  border-radius: 20px;
+  background-image: url("images/snare.png");
+  border: 10px solid #404B69;
+  line-height: 2;
+  text-shadow: 3px 0 #DBEDF3;
+  display: inline-block;
+  outline: none;
+
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+
+.set {
+    margin: 10% auto;
+   
+  }
